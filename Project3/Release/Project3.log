@@ -1,0 +1,29 @@
+﻿生成启动时间为 2016/10/29 22:14:33。
+     1>项目“F:\MyWork\C\project\Project3\Project3\Project3.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\Project3.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         d:\Visual Studio 2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Project3.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Move_VK.cpp
+         Move_VK.cpp
+     1>Move_VK.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+     1>Move_VK.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+     1>Move_VK.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+     1>Move_VK.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+     1>Move_VK.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+     1>Move_VK.cpp(60): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>Move_VK.cpp(61): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>Move_VK.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+     1>Move_VK.cpp(77): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+     1>Move_VK.cpp(78): warning C4244: “-=”: 从“double”转换到“LONG”，可能丢失数据
+     1>Move_VK.cpp(148): error C2664: “fopen”: 不能将参数 1 从“LPWSTR”转换为“const char *”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>Move_VK.cpp(149): warning C4018: “<”: 有符号/无符号不匹配
+     1>Move_VK.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+     1>Move_VK.cpp(201): error C2664: “fopen”: 不能将参数 1 从“LPWSTR”转换为“const char *”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>已完成生成项目“F:\MyWork\C\project\Project3\Project3\Project3.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.26
